@@ -13,12 +13,19 @@ Open VMWARE, select Create a New Virtual Machine.
 
 
 
+Browse to wherever you have the ubuntu server file saved and click next
 
 
 <img width="326" alt="Install from" src="https://github.com/MustangGuy86/Installing-Splunk/assets/103835436/606ee234-b046-4349-8425-debb16bf6fda">
 
 
+On the next page enter whatever information you like for the username and password then select Next.
 
+
+Type whatever name you like for virtual machine, in my case I chose Splunk and then select Next.
+
+
+For the "Specify Disk Capacity page just select the option Store virtual disk as a single file
 
 
 
