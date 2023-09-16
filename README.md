@@ -12,6 +12,16 @@ Open VMWARE, select Create a New Virtual Machine.
 
 
 
+
+
+
+<img width="326" alt="Install from" src="https://github.com/MustangGuy86/Installing-Splunk/assets/103835436/606ee234-b046-4349-8425-debb16bf6fda">
+
+
+
+
+
+
 After the Ubuntu Server is spun up, click on the Firefox browser and navigate to the Splunk website.
 
 Once on the sites main landing page scroll to Splunk Enterprise and click "Get My Free Trial".
